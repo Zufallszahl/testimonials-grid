@@ -84,7 +84,7 @@ body {
 
 .user-desc {
     opacity: 0.5;
-    scale: 0.9;
+    font-size: 1.3rem;
 }
 
 .testimonial {
